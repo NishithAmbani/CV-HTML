@@ -1,0 +1,24 @@
+  body {
+    background-color: #EAF6F6;
+    font-family: 'Sen', sans-serif;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  h1 {
+    color: #c86b85;
+  }
+
+  h3 {
+    color: #de8a9e;
+  }
+
+  a {
+    text-decoration: none;
+  }
